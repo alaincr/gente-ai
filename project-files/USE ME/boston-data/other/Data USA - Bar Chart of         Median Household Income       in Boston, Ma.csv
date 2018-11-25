@@ -1,0 +1,16 @@
+year,geo_name,geo,income,income_moe
+2013,"United States","01000US",52250.0,65.0
+2013,"Massachusetts","04000US25",66768.0,715.0
+2013,"Suffolk County, MA","05000US25025",54747.0,2139.0
+2013,"Boston-Cambridge-Newton, MA-NH Metro Area","31000US14460",72907.0,989.0
+2013,"Boston, MA","16000US2507000",53583.0,2144.0
+2014,"United States","01000US",53657.0,93.0
+2014,"Massachusetts","04000US25",69160.0,957.0
+2014,"Suffolk County, MA","05000US25025",54585.0,1927.0
+2014,"Boston-Cambridge-Newton, MA-NH Metro Area","31000US14460",75667.0,875.0
+2014,"Boston, MA","16000US2507000",56902.0,2802.0
+2015,"United States","01000US",55775.0,85.0
+2015,"Massachusetts","04000US25",70628.0,620.0
+2015,"Suffolk County, MA","05000US25025",56771.0,1946.0
+2015,"Boston-Cambridge-Newton, MA-NH Metro Area","31000US14460",78800.0,1642.0
+2015,"Boston, MA","16000US2507000",58263.0,2970.0

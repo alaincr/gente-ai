@@ -1,0 +1,34 @@
+Final Project Ideas:
+
+1. News Ranker:
+
+Final project idea 1:
+News Ranking app based on accuracy
+
+Details:
+I feel like I'm gonna have to make a web crawler that searches for pages named like "corrections" or "redactions" etc. And then I might have to manually look at the major media and social media influencer sites to create a database of which sites publish ads in the guise of articles and a list of sponsors - so people can see if their sponsors are influencing news stories
+
+Initial Criteria: # of redactions/corrections per some time unit, is the redaction/correction info easily found on site, are ads clearly marked (no ads hidden as fake articles), list of sponsors + board of directors + etc.,  Archive of redacted stories is available, articles are fact based (no editorials passed along as objective articles, story quota per reporter (may give insight into quality of publications - if quota is too high, quality of articles may suffer), reporter pay, investigative journalism, articles about science/health/other studies emphasize the importance of independent peer review (1 new study coming out is meaningless until other studies can independently replicate its results).
+
+
+Maybe criteria are broken down into categories:  
+*Ranking (overall rating based on all criteria
+
+*Accuracy score (based on # of redactions/corrections per some time unit
+
+*Accessibility (is site easily accessed by all users and are the redactions/corrections and other disclaimer information clearly marked and easily found on site)
+
+*Advertising (are ads clearly marked and kept separate from articles)
+
+*Sponsors/Board/Mgmt (are owners and sponsors listed and disclosed openly to prevent influence over content of publications)
+
+*Journalistic Integrity: do they have an investigative journalism department, and do they have a record of attempting to protect their sources effectively
+
+
+*Scientific integrity: are science articles objective, clear, and clearly state that new studies need to be independently verified before being acted upon (do they provide a brief literature review to show if other studies have supported the conclusions/results in the past, do they also contrast with other studies that may contradict results?)
+
+*Reporter workload: may give insight into quality of publications - if quota is too high, quality of articles may suffer
+
+
+
+

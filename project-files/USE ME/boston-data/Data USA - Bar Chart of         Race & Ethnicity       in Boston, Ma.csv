@@ -1,0 +1,4 @@
+year,geo_name,geo,pop_2ormore,pop_2ormore_moe,pop_asian,pop_asian_moe,pop_black,pop_black_moe,pop_hawaiian,pop_hawaiian_moe,pop_latino,pop_latino_moe,pop_native,pop_native_moe,pop_other,pop_other_moe,pop_white,pop_white_moe
+2013,"Boston, MA",16000US2507000,17126,2972,57294,2406,142136,3891,0,203,121496,4898,1683,818,9041,2740,295934,5170
+2014,"Boston, MA",16000US2507000,14594,2882,63428,1566,146502,4003,59,108,122342,4103,1155,673,8726,2407,299245,4257
+2015,"Boston, MA",16000US2507000,15365,2622,63260,2036,153039,3689,47,79,130656,3042,691,351,7406,2847,299005,4524
