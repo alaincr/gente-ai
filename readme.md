@@ -53,118 +53,119 @@ https://reactjs.org/docs/hello-world.html
 
 Tutorials:
 
-1.) Udacity ML Curriculuum:   https://github.com/udacity/machine-learning
+    1.) Udacity ML Curriculuum:   https://github.com/udacity/machine-learning
 
-2.) Housing Prices: https://blog.akquinet.de/2017/09/19/predicting-house-prices-on-kaggle-part-i/
+    2.) Housing Prices: https://blog.akquinet.de/2017/09/19/predicting-house-prices-on-kaggle-part-i/
 
-3.) Titanic Survivors:  https://www.kaggle.com/c/titanic
+    3.) Titanic Survivors:  https://www.kaggle.com/c/titanic
 
 
 Data Sets and Resources:
 
-3.) ML Data Sets: https://medium.com/@webadmin_46735/amazing-free-machine-learning-and-deep-learning-public-data-sources-for-2018-69daba24bded
+    1.) ML Data Sets: https://medium.com/@webadmin_46735/amazing-free-machine-learning-and-deep-learning-public-data-sources-for-2018-69daba24bded
 
-4.) Open Source ML tool: https://github.com/rasahq
+    2.) Open Source ML tool: https://github.com/rasahq
 
-5.) Algorithmic Justice League:  https://www.ajlunited.org
+    3.) Algorithmic Justice League:  https://www.ajlunited.org
 
-6.) Bad Data --> Useless ML Tools : https://hbr.org/2018/04/if-your-data-is-bad-your-machine-learning-tools-are-useless
+    4.) Bad Data --> Useless ML Tools : https://hbr.org/2018/04/if-your-data-is-bad-your-machine-learning-tools-are-useless
 
-3.) Preparing Data Sets:  https://www.youtube.com/watch?v=0xVqLJe9_CY
+    5.) Preparing Data Sets:  https://www.youtube.com/watch?v=0xVqLJe9_CY
 
-3.) Tensor Flow 101:  https://www.youtube.com/watch?v=arl8O22aa6I
+    6.) Tensor Flow 101:  https://www.youtube.com/watch?v=arl8O22aa6I
 
-3.) Tensor Flow Examples:   http://bcomposes.com/2015/11/26/simple-end-to-end-tensorflow-examples/
+    7.) Tensor Flow Examples:   http://bcomposes.com/2015/11/26/simple-end-to-end-tensorflow-examples/
 
-3.) Reddit Data Sets:   https://www.reddit.com/r/datasets/
+    8.) Reddit Data Sets:   https://www.reddit.com/r/datasets/
 
-3.) Public Data Sets:   https://github.com/awesomedata/awesome-public-datasets
+    9.) Public Data Sets:   https://github.com/awesomedata/awesome-public-datasets
 
-3.) UCI Data Sets:   https://archive.ics.uci.edu/ml/datasets.html
+    10.) UCI Data Sets:   https://archive.ics.uci.edu/ml/datasets.html
 
-3.) Zillow API:  https://www.zillow.com/research/data/#bulk
+    11.) Zillow API:  https://www.zillow.com/research/data/#bulk
 
 
 **Kaggle Data Sets**
 
-3.) Kaggle Data Sets:  https://www.kaggle.com/datasets
+    1.) Kaggle Data Sets:  https://www.kaggle.com/datasets
 
-3.) US Census Data:   https://www.kaggle.com/muonneutrino/us-census-demographic-data
+    2.) US Census Data:   https://www.kaggle.com/muonneutrino/us-census-demographic-data
 
-3.) Boston Data Sets:   https://www.kaggle.com/datasets?sortBy=relevance&group=public&search=boston&page=1&pageSize=20&size=all&filetype=all&license=all
+    3.) Boston Data Sets:   https://www.kaggle.com/datasets?sortBy=relevance&group=public&search=boston&page=1&pageSize=20&size=all&filetype=all&license=all
 
-3.) Zillow Data Sets: https://www.kaggle.com/zillow/zecon
+    4.) Zillow Data Sets: https://www.kaggle.com/zillow/zecon
 
-3.) MA Public Schools Data Sets:  https://www.kaggle.com/ndalziel/massachusetts-public-schools-data
+    5.) MA Public Schools Data Sets:  https://www.kaggle.com/ndalziel/massachusetts-public-schools-data
 
-3.) Medium Listing Price:  https://www.kaggle.com/zillow/median-listing-price-1-bedroom
+    6.) Medium Listing Price:  https://www.kaggle.com/zillow/median-listing-price-1-bedroom
 
-3.) Boston Housing Data Sets: https://www.kaggle.com/schirmerchad/bostonhoustingmlnd
+    7.) Boston Housing Data Sets: https://www.kaggle.com/schirmerchad/bostonhoustingmlnd
 
 
 **Census and City Data Sets**
 
-3.) Census Data Mapper: https://www.census.gov/geo/maps-data/maps/datamapper.html
+    1.) Census Data Mapper: https://www.census.gov/geo/maps-data/maps/datamapper.html
 
-3.) Census Reporter:   https://censusreporter.org
+    2.) Census Reporter:   https://censusreporter.org
 
-3.) American Fact Finder Results:  https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_16_5YR_B02001&prodType=table
+    3.) American Fact Finder Results:  https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_16_5YR_B02001&prodType=table
 
-3.) Census Data Tables and Tools:   https://www.census.gov/acs/www/data/data-tables-and-tools/index.php
+    4.) Census Data Tables and Tools:   https://www.census.gov/acs/www/data/data-tables-and-tools/index.php
 
-3.) American Housing Survey Table Creator:  https://www.census.gov/programs-surveys/ahs/data/interactive/ahstablecreator.html#?s_areas=a14460&s_year=m2015&s_tableName=Table8a&s_byGroup1=a10&s_byGroup2=a1&s_filterGroup1=t1&s_filterGroup2=g1&s_show=S
+    5.) American Housing Survey Table Creator:  https://www.census.gov/programs-surveys/ahs/data/interactive/ahstablecreator.html#?s_areas=a14460&s_year=m2015&s_tableName=Table8a&s_byGroup1=a10&s_byGroup2=a1&s_filterGroup1=t1&s_filterGroup2=g1&s_show=S
 
-3.) City of Somerville - Demographics:    https://www.somervillema.gov/search/google/demographic
+    6.) City of Somerville - Demographics:    https://www.somervillema.gov/search/google/demographic
 
-3.) MAPC - Managing Neighborhood Change:  https://www.mapc.org/resource-library/managing-neighborhood-change-how-to-measure-neighborhood-change/
+    7.) MAPC - Managing Neighborhood Change:  https://www.mapc.org/resource-library/managing-neighborhood-change-how-to-measure-neighborhood-change/
 
-3.) Census API:  https://www.census.gov/programs-surveys/decennial-census/data/api.html
+    8.) Census API:  https://www.census.gov/programs-surveys/decennial-census/data/api.html
 
-3.) ACS 2016:  https://www.census.gov/programs-surveys/acs/data/summary-file.2016.html
+    9.) ACS 2016:  https://www.census.gov/programs-surveys/acs/data/summary-file.2016.html
 
-3.) Open Data Stack Exchange - Summary Files:   https://opendata.stackexchange.com/questions/1860/what-do-the-summary-files-in-the-acs-ftp-drive-mean#1873
+    10.) Open Data Stack Exchange - Summary Files:   https://opendata.stackexchange.com/questions/1860/what-do-the-summary-files-in-the-acs-ftp-drive-mean#1873
 
-3.) Cambridge City Data:   https://www.cambridgema.gov/departments/opendata
+    11.) Cambridge City Data:   https://www.cambridgema.gov/departments/opendata
 
-3.) Interactive Equity and Inclusion Dash Board:    https://www.cambridgema.gov/Departments/equityandinclusion/interactiveequityandinclusiondashboard
+    12.) Interactive Equity and Inclusion Dash Board:    https://www.cambridgema.gov/Departments/equityandinclusion/interactiveequityandinclusiondashboard
 
-3.) Opportunity Project:   https://opportunity.census.gov/toolkit.html
+    13.) Opportunity Project:   https://opportunity.census.gov/toolkit.html
 
-3.) Boston City Data:    https://data.boston.gov
+    14.) Boston City Data:    https://data.boston.gov
 
-3.) Boston Maps:   https://boston.maps.arcgis.com/home/index.html
+    15.) Boston Maps:   https://boston.maps.arcgis.com/home/index.html
 
-3.) Boston City Demographics:   http://maps.cityofboston.gov/Atlas_Boston/?t=2&m=1&x=-71.095&y=42.318&l=12
+    16.) Boston City Demographics:   http://maps.cityofboston.gov/Atlas_Boston/?t=2&m=1&x=-71.095&y=42.318&l=12
 
-3.) ESRI Diversity Index Report:  http://www.esri.com/library/whitepapers/pdfs/diversity-index-methodology.pdf
+    17.) ESRI Diversity Index Report:  http://www.esri.com/library/whitepapers/pdfs/diversity-index-methodology.pdf
 
-3.) Boston Neighborhoods:  https://boston.maps.arcgis.com/apps/MapTour/index.html?appid=e5e37d36d8484cb2a8273205468d482e
+    18.) Boston Neighborhoods:  https://boston.maps.arcgis.com/apps/MapTour/index.html?appid=e5e37d36d8484cb2a8273205468d482e
 
-3.) Open Data Boston:  https://bostonopendata-boston.opendata.arcgis.com
+    19.) Open Data Boston:  https://bostonopendata-boston.opendata.arcgis.com
 
-3.) Consumer Expenditures Boston:  https://www.bls.gov/regions/new-england/news-release/consumerexpenditures_boston.htm
+    20.) Consumer Expenditures Boston:  https://www.bls.gov/regions/new-england/news-release/consumerexpenditures_boston.htm
 
-3.) Data USA:  https://datausa.io
+    21.) Data USA:  https://datausa.io
 
-3.) Data USA Boston Demographics:  https://datausa.io/profile/geo/boston-ma/#demographics
+    22.) Data USA Boston Demographics:  https://datausa.io/profile/geo/boston-ma/#demographics
 
-3.) Data USA Boston General:   https://datausa.io/profile/geo/boston-ma/
+    23.) Data USA Boston General:   https://datausa.io/profile/geo/boston-ma/
 
-3.) Data USA Boston General:   https://datausa.io/profile/geo/somerville-ma/
+    24.) Data USA Boston General:   https://datausa.io/profile/geo/somerville-ma/
 
 
 
 **Other**
 
-3.) Guess the Correlation:  http://guessthecorrelation.com
+    1.) Guess the Correlation:  http://guessthecorrelation.com
 
-3.) Dashboard Design Example:  https://dribbble.com/shots/4451148-Team-Management-Dashboard
+    2.) Dashboard Design Example:  https://dribbble.com/shots/4451148-Team-Management-Dashboard
 
-3.) High Charts Demo:   https://www.highcharts.com/maps/demo/us-counties
+    3.) High Charts Demo:   https://www.highcharts.com/maps/demo/us-counties
 
-3.) Charts.js:     https://www.chartjs.org
+    4.) Charts.js:     https://www.chartjs.org
 
-3.) Rag Tag Boston:   https://www.eventbrite.com/e/ragtag-bostoncambridge-local-meetup-tickets-44723395881
+    5.) Rag Tag Boston:   https://www.eventbrite.com/e/ragtag-bostoncambridge-local-meetup-tickets-44723395881
+
 
 --- Articles --- 
 Bias:  
