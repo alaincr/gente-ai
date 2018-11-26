@@ -39,6 +39,15 @@ I will be using machine learning to help combat housing instability and empower 
 
 **Machine Learning**
 
+Python:
+
+Learn Python in 5 min:  https://www.stavros.io/tutorials/python/
+
+React.js:    https://reactjs.org/tutorial/tutorial.html
+
+https://reactjs.org/docs/hello-world.html
+
+
 Tutorials:
 
 1.) Udacity ML Curriculuum:   https://github.com/udacity/machine-learning
@@ -49,6 +58,8 @@ Tutorials:
 
 
 Data Sets and Resources:
+
+3.) ML Data Sets: https://medium.com/@webadmin_46735/amazing-free-machine-learning-and-deep-learning-public-data-sources-for-2018-69daba24bded
 
 4.) Open Source ML tool: https://github.com/rasahq
 
@@ -116,17 +127,41 @@ Data Sets and Resources:
 
 3.) Opportunity Project:   https://opportunity.census.gov/toolkit.html
 
-3.) 
+3.) Boston City Data:    https://data.boston.gov
 
-3.) 
+3.) Boston Maps:   https://boston.maps.arcgis.com/home/index.html
 
-3.) 
+3.) Boston City Demographics:   http://maps.cityofboston.gov/Atlas_Boston/?t=2&m=1&x=-71.095&y=42.318&l=12
 
-3.) 
+3.) ESRI Diversity Index Report:  http://www.esri.com/library/whitepapers/pdfs/diversity-index-methodology.pdf
 
-3.) 
+3.) Boston Neighborhoods:  https://boston.maps.arcgis.com/apps/MapTour/index.html?appid=e5e37d36d8484cb2a8273205468d482e
 
-3.) 
+3.) Open Data Boston:  https://bostonopendata-boston.opendata.arcgis.com
+
+3.) Consumer Expenditures Boston:  https://www.bls.gov/regions/new-england/news-release/consumerexpenditures_boston.htm
+
+3.) Data USA:  https://datausa.io
+
+3.) Data USA Boston Demographics:  https://datausa.io/profile/geo/boston-ma/#demographics
+
+3.) Data USA Boston General:   https://datausa.io/profile/geo/boston-ma/
+
+3.) Data USA Boston General:   https://datausa.io/profile/geo/somerville-ma/
+
+
+
+**Other**
+
+3.) Guess the Correlation:  http://guessthecorrelation.com
+
+3.) Dashboard Design Example:  https://dribbble.com/shots/4451148-Team-Management-Dashboard
+
+3.) High Charts Demo:   https://www.highcharts.com/maps/demo/us-counties
+
+3.) Charts.js:     https://www.chartjs.org
+
+3.) Rag Tag Boston:   https://www.eventbrite.com/e/ragtag-bostoncambridge-local-meetup-tickets-44723395881
 
 --- Articles --- 
 Bias:  
