@@ -37,8 +37,85 @@ I will be using machine learning to help combat housing instability and empower 
 
 ### Resources:
 
-- Tensor Flow:  https://www.youtube.com/watch?v=arl8O22aa6I
--
+**Machine Learning**
+
+Tutorials:
+
+1.) Udacity ML Curriculuum:   https://github.com/udacity/machine-learning
+
+2.) Housing Prices: https://blog.akquinet.de/2017/09/19/predicting-house-prices-on-kaggle-part-i/
+
+3.) Titanic Survivors:  https://www.kaggle.com/c/titanic
+
+
+Data Sets and Resources:
+
+4.) Open Source ML tool: https://github.com/rasahq
+
+5.) Algorithmic Justice League:  https://www.ajlunited.org
+
+6.) Bad Data --> Useless ML Tools : https://hbr.org/2018/04/if-your-data-is-bad-your-machine-learning-tools-are-useless
+
+3.) Preparing Data Sets:  https://www.youtube.com/watch?v=0xVqLJe9_CY
+
+3.) Tensor Flow 101:  https://www.youtube.com/watch?v=arl8O22aa6I
+
+3.) Tensor Flow Examples:   http://bcomposes.com/2015/11/26/simple-end-to-end-tensorflow-examples/
+
+3.) Reddit Data Sets:   https://www.reddit.com/r/datasets/
+
+3.) Public Data Sets:   https://github.com/awesomedata/awesome-public-datasets
+
+3.) UCI Data Sets:   https://archive.ics.uci.edu/ml/datasets.html
+
+3.) Zillow API:  https://www.zillow.com/research/data/#bulk
+
+
+**Kaggle Data Sets**
+
+3.) Kaggle Data Sets:  https://www.kaggle.com/datasets
+
+3.) US Census Data:   https://www.kaggle.com/muonneutrino/us-census-demographic-data
+
+3.) Boston Data Sets:   https://www.kaggle.com/datasets?sortBy=relevance&group=public&search=boston&page=1&pageSize=20&size=all&filetype=all&license=all
+
+3.) Zillow Data Sets: https://www.kaggle.com/zillow/zecon
+
+3.) MA Public Schools Data Sets:  https://www.kaggle.com/ndalziel/massachusetts-public-schools-data
+
+3.) Medium Listing Price:  https://www.kaggle.com/zillow/median-listing-price-1-bedroom
+
+3.) Boston Housing Data Sets: https://www.kaggle.com/schirmerchad/bostonhoustingmlnd
+
+
+**Census and City Data Sets**
+
+3.) Census Data Mapper: https://www.census.gov/geo/maps-data/maps/datamapper.html
+
+3.) Census Reporter:   https://censusreporter.org
+
+3.) American Fact Finder Results:  https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_16_5YR_B02001&prodType=table
+
+3.) 
+
+3.) 
+
+3.) 
+
+
+--- Articles --- 
+Bias:  
+
+http://markyatskar.com//publications/bias.pdf
+
+https://cacm.acm.org/magazines/2016/9/206255-designing-ai-systems-that-obey-our-laws-and-values/abstract
+
+Other:
+
+https://ai.googleblog.com/2018/08/Multilingual-Google-Assistant.html
+
+https://www.technologyreview.com/the-download/612348/a-controversial-artwork-created-by-ai-has-hauled-in-435000-at-auction/
+
 
 
 
