@@ -96,12 +96,37 @@ Data Sets and Resources:
 
 3.) American Fact Finder Results:  https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_16_5YR_B02001&prodType=table
 
+3.) Census Data Tables and Tools:   https://www.census.gov/acs/www/data/data-tables-and-tools/index.php
+
+3.) American Housing Survey Table Creator:  https://www.census.gov/programs-surveys/ahs/data/interactive/ahstablecreator.html#?s_areas=a14460&s_year=m2015&s_tableName=Table8a&s_byGroup1=a10&s_byGroup2=a1&s_filterGroup1=t1&s_filterGroup2=g1&s_show=S
+
+3.) City of Somerville - Demographics:    https://www.somervillema.gov/search/google/demographic
+
+3.) MAPC - Managing Neighborhood Change:  https://www.mapc.org/resource-library/managing-neighborhood-change-how-to-measure-neighborhood-change/
+
+3.) Census API:  https://www.census.gov/programs-surveys/decennial-census/data/api.html
+
+3.) ACS 2016:  https://www.census.gov/programs-surveys/acs/data/summary-file.2016.html
+
+3.) Open Data Stack Exchange - Summary Files:   https://opendata.stackexchange.com/questions/1860/what-do-the-summary-files-in-the-acs-ftp-drive-mean#1873
+
+3.) Cambridge City Data:   https://www.cambridgema.gov/departments/opendata
+
+3.) Interactive Equity and Inclusion Dash Board:    https://www.cambridgema.gov/Departments/equityandinclusion/interactiveequityandinclusiondashboard
+
+3.) Opportunity Project:   https://opportunity.census.gov/toolkit.html
+
+3.) 
+
+3.) 
+
 3.) 
 
 3.) 
 
 3.) 
 
+3.) 
 
 --- Articles --- 
 Bias:  
