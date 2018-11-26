@@ -1,4 +1,7 @@
 # gente-ai
+
+**Gente AI - Tech for the People**
+
 Revamping of my final project - continuing to create and improve features --> WIP
 
 I will be using machine learning to help combat housing instability and empower people with the data needed to engage their local and state reps to address these issues.
