@@ -212,7 +212,7 @@ https://www.technologyreview.com/the-download/612348/a-controversial-artwork-cre
 [//]: # (have affordable housing and community orgs as resources for users to utilize if needed --> local food pantries, local activist groups, housing resources, groups and meetups, user inputs for local resources - after vetting? etc.)
 [//]: # (have login so users can save the maps and data they request for future reference/use)
 
-[//]: # ()
+[//]: # (Look into groups and resources such as the MA Smart Growth Alliance https://ma-smartgrowth.org)
 [//]: # ()
 [//]: # ()
 [//]: # ()
