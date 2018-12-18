@@ -166,6 +166,9 @@ Data Sets and Resources:
 
 5.) Rag Tag Boston:   https://www.eventbrite.com/e/ragtag-bostoncambridge-local-meetup-tickets-44723395881
 
+6.) Great Neighborhoods: https://www.great-neighborhoods.org
+
+7.) MA Smart Growth Alliance:  https://ma-smartgrowth.org
 
 
 --- Articles --- 
